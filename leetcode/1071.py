@@ -1,3 +1,5 @@
+#testcase 173 seems wrong str1=ababccabab ,str2=abab ,ex="" , my="ab"
+
 class Solution(object):
     def gcdOfStrings(self, str1, str2):
         """
@@ -32,4 +34,3 @@ class Solution(object):
             return sub_str
 
         
-
